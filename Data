@@ -1,0 +1,17 @@
+data = """customer_id,gender,age,city,signup_date,last_purchase_date,total_orders,total_spend,avg_order_value,preferred_channel,is_active
+CUST001,Male,34,New York,2022-01-15,2023-03-10,12,2400,200,Online,Yes
+CUST002,Female,28,Los Angeles,2022-03-20,2022-11-05,5,750,150,In-Store,No
+CUST003,,45,Chicago,2021-07-10,2023-02-25,20,4200,210,Online,Yes
+CUST004,Female,NaN,Houston,2022-05-05,2022-08-15,3,300,100,Online,No
+CUST005,Male,39,Phoenix,2021-11-30,2023-03-01,18,3600,200,In-Store,Yes
+CUST006,Female,22,New York,2023-01-10,2023-02-05,2,180,90,Online,Yes
+CUST007,Male,NaN,Chicago,2022-02-18,,7,1400,200,In-Store,No
+CUST008,Female,31,Los Angeles,2021-09-25,2023-01-12,15,3000,200,Online,Yes
+CUST009,Male,52,,2020-04-15,2022-12-30,25,5000,200,In-Store,Yes
+CUST010,Female,27,New York,2022-06-08,2022-07-20,1,100,100,Online,No
+CUST011,Male,36,Chicago,2021-03-03,2023-03-18,22,4400,200,Online,Yes
+CUST012,Female,41,Houston,2020-10-10,2021-12-01,10,1800,180,In-Store,No
+CUST013,Male,29,Los Angeles,2022-08-15,2023-02-10,6,900,150,Online,Yes
+CUST014,Female,,Phoenix,2021-12-05,2023-01-28,14,2800,200,In-Store,Yes
+CUST015,Male,48,New York,2020-02-20,2022-09-30,19,3800,200,Online,No 
+"""
